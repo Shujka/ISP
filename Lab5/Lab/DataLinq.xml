@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hospitals>
+  <hospital Name="Hospital №10" Address="Minsk">
+    <reception NameEmployee="Ann" EmployeesNumber="3" PhoneNumber="+375291112233" />
+  </hospital>
+  <hospital Name="Hospital №2" Address="Brest">
+    <reception NameEmployee="Alex" EmployeesNumber="2" PhoneNumber="+375291234565" />
+  </hospital>
+  <hospital Name="Hospital №1" Address="Homel">
+    <reception NameEmployee="Anton" EmployeesNumber="1" PhoneNumber="+375331234567" />
+  </hospital>
+  <hospital Name="Hospital №8" Address="Minsk">
+    <reception NameEmployee="Mary" EmployeesNumber="3" PhoneNumber="+37529778856" />
+  </hospital>
+  <hospital Name="Hospital №3" Address="Minsk">
+    <reception NameEmployee="Victor" EmployeesNumber="2" PhoneNumber="+375337070353" />
+  </hospital>
+  <hospital Name="Hospital №1" Address="Brest">
+    <reception NameEmployee="Max" EmployeesNumber="1" PhoneNumber="+375331234567" />
+  </hospital>
+</hospitals>

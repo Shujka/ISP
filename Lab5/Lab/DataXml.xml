@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHospital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hospital>
+    <Name>Hospital №10</Name>
+    <Reception>
+      <NameEmployee>Ann</NameEmployee>
+      <EmployeesNumber>3</EmployeesNumber>
+      <PhoneNumber>+375291112233</PhoneNumber>
+    </Reception>
+    <Address>Minsk</Address>
+  </Hospital>
+  <Hospital>
+    <Name>Hospital №2</Name>
+    <Reception>
+      <NameEmployee>Alex</NameEmployee>
+      <EmployeesNumber>2</EmployeesNumber>
+      <PhoneNumber>+375291234565</PhoneNumber>
+    </Reception>
+    <Address>Brest</Address>
+  </Hospital>
+  <Hospital>
+    <Name>Hospital №1</Name>
+    <Reception>
+      <NameEmployee>Anton</NameEmployee>
+      <EmployeesNumber>1</EmployeesNumber>
+      <PhoneNumber>+375331234567</PhoneNumber>
+    </Reception>
+    <Address>Homel</Address>
+  </Hospital>
+  <Hospital>
+    <Name>Hospital №8</Name>
+    <Reception>
+      <NameEmployee>Mary</NameEmployee>
+      <EmployeesNumber>3</EmployeesNumber>
+      <PhoneNumber>+37529778856</PhoneNumber>
+    </Reception>
+    <Address>Minsk</Address>
+  </Hospital>
+  <Hospital>
+    <Name>Hospital №3</Name>
+    <Reception>
+      <NameEmployee>Victor</NameEmployee>
+      <EmployeesNumber>2</EmployeesNumber>
+      <PhoneNumber>+375337070353</PhoneNumber>
+    </Reception>
+    <Address>Minsk</Address>
+  </Hospital>
+  <Hospital>
+    <Name>Hospital №1</Name>
+    <Reception>
+      <NameEmployee>Max</NameEmployee>
+      <EmployeesNumber>1</EmployeesNumber>
+      <PhoneNumber>+375331234567</PhoneNumber>
+    </Reception>
+    <Address>Brest</Address>
+  </Hospital>
+</ArrayOfHospital>
